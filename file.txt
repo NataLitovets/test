@@ -1,5 +1,0 @@
-use control
-hello
-789
-123
-852
